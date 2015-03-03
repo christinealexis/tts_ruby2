@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+html{
+	font-family: American Typewriter, Arial, Verdana;
+	font-size: 20px;
+	background-color: #FF0066;
+	
+}
